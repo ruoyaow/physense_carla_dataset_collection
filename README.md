@@ -3,7 +3,7 @@
 You can **directly use the released dataset from Hugging Face** without running CARLA:  
 https://huggingface.co/datasets/Ruoyao/physense_carla_dataset
 
-This repo provides steps/scripts to dump the synthetic dataset used in **PhySense** from CARLA via the CARLA PythonAPI (useful if you want to reproduce the dataset or generate new data).
+This repo provides steps/scripts to dump the synthetic dataset used in **PhySense** from CARLA via the CARLA PythonAPI.
 
 ## Contents
 
